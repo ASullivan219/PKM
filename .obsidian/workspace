@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.1 Parity.md",
+            "file": "4.9 is_number_palindronic.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.1 Parity.md",
+                "file": "4.9 is_number_palindronic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,8 @@
   },
   "active": "65e11fe76bff422c",
   "lastOpenFiles": [
-    "4.1 Parity.md",
+    "4.9 is_number_palindronic.md",
+    "EPI-Python/4.1 Parity.md",
     "Personal Projects/OpenCV Face detection.md"
   ]
 }
